@@ -3,4 +3,4 @@
 
 《现代移动通信原理与技术》（付秀花、王家政主编，国防工业出版社）课件，LaTex-Beamer-PDF格式。
 
-![京东](https://item.jd.com/12848292.html)
+[京东](https://item.jd.com/12848292.html)
