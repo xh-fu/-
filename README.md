@@ -11,7 +11,7 @@
 
 ISBN：9787118117875
 
-课件，LaTex-Beamer-PDF格式。
+课件，LaTex-Beamer-PDF格式
 
 ---
 
